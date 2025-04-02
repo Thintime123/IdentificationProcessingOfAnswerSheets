@@ -1,0 +1,13 @@
+2023xx17:
+	(1)Wrong answer!
+		correct answer£ºA 	the given answer£ºB
+	(2)Accepted!
+		correct answer£ºE 	the given answer£ºE
+	(3)Accepted!
+		correct answer£ºA 	the given answer£ºA
+	(4)Wrong answer!
+		correct answer£ºD 	the given answer£ºC
+	(5)Accepted!
+		correct answer£ºB 	the given answer£ºB
+Correct rate: 3/5 = 60%
+

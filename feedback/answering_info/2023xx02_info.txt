@@ -1,0 +1,13 @@
+2023xx02:
+	(1)Accepted!
+		correct answer£ºA 	the given answer£ºA
+	(2)Accepted!
+		correct answer£ºE 	the given answer£ºE
+	(3)Accepted!
+		correct answer£ºA 	the given answer£ºA
+	(4)Accepted!
+		correct answer£ºD 	the given answer£ºD
+	(5)Accepted!
+		correct answer£ºB 	the given answer£ºB
+Correct rate: 5/5 = 100%
+

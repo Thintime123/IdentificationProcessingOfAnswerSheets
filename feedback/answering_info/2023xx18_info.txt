@@ -1,0 +1,13 @@
+2023xx18:
+	(1)Wrong answer!
+		correct answer£ºA 	the given answer£ºD
+	(2)Wrong answer!
+		correct answer£ºE 	the given answer£ºC
+	(3)Wrong answer!
+		correct answer£ºA 	the given answer£ºE
+	(4)Wrong answer!
+		correct answer£ºD 	the given answer£ºA
+	(5)Wrong answer!
+		correct answer£ºB 	the given answer£ºD
+Correct rate: 0/5 = 0%
+
