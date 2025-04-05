@@ -1,44 +1,44 @@
-# 答题卡智能识别与处理系统
+# Intelligent Answer Sheet Recognition and Processing System
 
-## 项目简介
-本项目是一个基于Python的智能答题卡识别与处理系统，旨在自动化扫描、识别和评分答题卡。该系统能够快速、准确地处理多份答题卡，并生成详细的统计报告和可视化分析。
+## Project Overview
+This project is a Python-based intelligent answer sheet recognition and processing system designed to automate the scanning, identification, and scoring of answer sheets. The system can quickly and accurately process multiple answer sheets, generating detailed statistical reports and visualization analysis.
 
-## 主要功能
-- 批量识别答题卡图像
-- 自动评分和错题分析
-- 生成详细的成绩统计
-- 多种数据可视化（柱状图、饼图）
-- 将结果导出到Excel
+## Key Features
+- Batch recognition of answer sheet images
+- Automatic scoring and error analysis
+- Generation of detailed grade statistics
+- Multiple data visualizations (bar charts, pie charts)
+- Export results to Excel
 
-## 技术特点
-- 使用OpenCV进行图像处理
-- 利用Matplotlib生成统计图表
-- 支持批量处理多份答题卡
-- 生成问题错误统计
-- 提供直观的成绩分析
+## Technical Characteristics
+- Image processing using OpenCV
+- Statistical chart generation with Matplotlib
+- Support for batch processing of multiple answer sheets
+- Generation of question error statistics
+- Providing intuitive performance analysis
 
-## 依赖库
+## Dependencies
 - OpenCV
 - Matplotlib
-- Pandas（用于Excel导出）
+- Pandas (for Excel export)
 
-## 使用步骤
-1. 准备答题卡图像（存储在 `./res/img/` 目录）
-2. 配置答案键
-3. 运行主程序
-4. 查看生成的统计报告和图表
+## Usage Steps
+1. Prepare answer sheet images (stored in `./res/img/` directory)
+2. Configure answer key
+3. Run the main program
+4. View generated statistical reports and charts
 
-## 输出结果
-- 柱状图：题目错误分布
-- 饼图：成绩分布
-- Excel报告：详细成绩单
+## Output Results
+- Bar chart: Question error distribution
+- Pie chart: Grade distribution
+- Excel report: Detailed grade sheet
 
-## 注意事项
-- 确保答题卡图像清晰
-- 按照指定格式准备答案键
-- 图像文件需按顺序命名（img1.png, img2.png等）
+## Precautions
+- Ensure answer sheet images are clear
+- Prepare answer key in the specified format
+- Image files must be named in sequence (img1.png, img2.png, etc.)
 
-## 未来改进方向
-- 支持更多图像格式
-- 优化识别算法
-- 增加更多统计维度
+## Future Improvement Directions
+- Support for more image formats
+- Optimization of recognition algorithms
+- Addition of more statistical dimensions
