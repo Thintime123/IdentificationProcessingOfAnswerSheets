@@ -1,3 +1,4 @@
+[简体中文](https://github.com/Thintime123/IdentificationProcessingOfAnswerSheets/blob/main/README_CN.md)
 # Intelligent Answer Sheet Recognition and Processing System
 
 ## Project Overview
